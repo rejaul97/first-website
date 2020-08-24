@@ -1,0 +1,51 @@
+.body{
+
+}
+.B{
+ width: 100%;
+ display: flex;
+}
+.R{}
+.R nav{
+}
+.R nav ul{
+    margin-left: 80px;
+    margin-top: 5px;
+}
+.R nav ul li{
+    display: inline;
+    margin-right: -4px;
+}
+.R nav ul li a{
+    background: dodgerblue;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+}
+.R nav ul li a:hover{
+    background: darkblue;
+    transition: 3s;
+    border-radius: 20px;
+}
+.image1{
+ width: 33.3333333333%;
+ text-align: left;
+ padding-top: 50px;
+}
+
+.image2{ 
+    width: 33.33333333%;
+    height: 25%;
+    text-align: center;
+}
+.image3{
+    width: 33.3333333%;
+    text-align: end;
+    padding-top: 50px;
+}
+
+.image4{
+    margin-left: 80px;
+}
+
