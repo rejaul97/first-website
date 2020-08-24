@@ -1,0 +1,82 @@
+body{
+    background: url(../image/facebook\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.R{    color: white;
+    background: darkblue;   
+    margin-bottom: -28px;
+    margin-left:  none;
+    padding: 5px 10px;
+    margin-top: 0px;
+}
+.R img{
+    width: 15%;
+    margin: 2px 25px;
+    height: 58px;
+}
+.R h1{
+    font-size: 50px;
+    padding: 10px;
+    margin-left: 50px;
+} 
+.R button{
+    background: midnightblue;
+    color: white;
+}   
+.R p{
+    margin-bottom: -36px;
+    margin-left: 90px;
+    margin-top: 5px;
+    float: right;
+}
+.E{
+   color: darkblue;
+   margin-left: 85px;
+   margin-top: -25px;
+}
+.E p{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 22px;
+    margin-top: 80px;
+}
+.J{
+    margin-left: 875px;
+    margin-top: -300px;
+}
+.J h2{
+    font-size: 25px;
+    color: darkblue;
+    text-align: 55px;
+}
+.J h3{
+    color: darkblue;
+    text-align: 55px;
+}
+.J input{
+    font-size: 11px;
+    text-align: center;
+    margin: 2px;
+    margin-bottom: 5px;
+    width: 160px;
+    padding: 5px;
+}
+.blue{
+    color: blue;
+}
+.J button{
+    width: 65px;
+    text-align: 75px;
+    padding: 3px;
+    background: #2dde3ae3;
+    color: #fff;
+    font-size: 15px;
+    margin-left: 42px;
+    border: none;
+}
+h5{
+    float: center;
+}
+    
